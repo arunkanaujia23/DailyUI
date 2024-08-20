@@ -15,7 +15,8 @@
 15.  On/Off Switch: Consider what's being turned on/off and how it should be done. Is it a push-to-start electric vehicle? A control panel for a smart refrigerator or some other touch-panel display?
 16.  Pop-up Overlay: Is it for a newsletter sign-up form ? Is it an ad overlay? A gated subscription page such as for premium news or member-only access?
 17.  Purchase Receipt: What was purchased? On what date? How much was the item? And from what source and vendor? Consider other elements such as a customer support info, a tracking number or receipt number, business location/phone number/website, pictures if needed, and any other related elements. Tip:  The bottoms and tops of receipts are usually really underutilized. They can be great places to inform customers about upcoming promotions, news, ask for feedback, or promote your social media with a QR code.
-
-
-
-
+18.  Analytics Chart: Is it to be used for web or app usage, a health monitor, e-commerce or traffic analytics? Is it tracking sports or stock market performance?
+19.  Leaderboard: Is it for gaming, sports, racing, politics, top sellers, the highest grossing movies, or something else? Consider the important statistics to show, percentages, points, avatar pictures or logos, and the most critical elements. (Don't overwhelm the users with too much information)
+20.   Location Tracker: Consider the icon, placement, and purpose of the location. Are you mapping something? Is it a tracking beacon to find a friend or a tracking device such as a phone? Is the NSA or FBI tracking you? ;)
+21.    Home Monitoring Dashboard: Design a home monitoring dashboard. Be creative! What would make a dashboard visually appealing and fun to use, while also being mindful of its function? Try to make it a realistic exercise as if it were your own dashboard... one that you need to refer to daily. What is the most relevant data and what's the most appropriate placement for it?
+22.Search: Design something search related. It could be a search bar, an advanced search window, or a search function. It could even be a page to search for hotel rooms, homes for sale, plane tickets, concert seats, or something else
