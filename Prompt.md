@@ -57,5 +57,43 @@
 57.  Video Player: Design a video play with all the functions needed: volume, skip, fast forward, etc. Depending on the device you'll want to consider different needs such as inputs for a TV (HDMI 1, etc.) or hover effects for a remote cursor.
 58.  Shopping cart: Some brands use a cart or bag during their checkout process. Consider the products, prices, and placement of any other required data. Do people need to create an account? Checkout as a guest? Is there shipping?
 59.  Background Pattern: Whether an e-commerce site, a blogs, or a landing page, backgrounds are often unnoticed. How can you design a useful and beautiful one? Video background? Moving patterns or textures? You decide.
-60.  Color Picker: What is the user doing? Designing a website? Selecting a t-shirt color? Colors are an important part of product design and making it simple to select great color schemes is crucial. 
-
+60.  Color Picker: What is the user doing? Designing a website? Selecting a t-shirt color? Colors are an important part of product design and making it simple to select great color schemes is crucial.
+61.  Redeem Coupon: Imagine that it's time for someone to redeem a coupon. It could be via an in person self-checkout screen or on a website. Think about the requirements of a coupon such as the discount percentage, the subtotal, total, and other unique features.Always make it easy. The last thing people want to encounter is a complex interface that adds friction to the redemption process.
+62.  Sign Up Form: Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+63.  Best Of: “Best of” lists can be used for featured news articles, “best of …” city magazines, top selling products, best selling books, etc. What's best, why, and how will you display it?
+64.  User Selection: Create a modal, page, toggle, or some other element to represent the selection of a user profile. It could be inside a video app, managing multiple social media accounts, a video game, or something totally unique.
+65.  Notes Widget: We all need to record a note at some point. Whether it's a full page document, a small shopping list, or a note inside of an app Create a widget to incorporate a notes feature.
+66.  Statistics: Applications used for finance, engineering, sports, and even video games have tons of statistics.Design something to show off the top statistics.
+67.  Hotel or Vacation Rental Booking: Create a website, listing page, or booking reservation UI for a vacation property. Consider extra elements: non-smoking rooms, security deposits, amenities, etc.
+68.  Flight Search: Design an app or website for either searching for flights or comparing options.Consider the variables: one-way, roundtrip, or multi-stop flight? Baggage fees? Making a lot of data look simple isn't easy, but it's what your users will appreciate. Millions of people travel everyday so every little detail makes a difference.
+69.  Trending: Create a trending list or feature. What's trending? Music, movies, stock prices, or something else? Think about if it'll be the main focus or a minimal element such as a scrolling banner or notification widget.
+70.  Event Listing: Design a feature or display for upcoming events. Concerts, workshops, summer camps, seminars, or other training events. Get creative with the purpose and style.
+71.  Scheduling: Design elements or a full experience for a schedule. It could be for a hospital to schedule patients, a bank to schedule payments, a band's concert schedule or anything.
+72.  Slider: Create a slider design. It could be to swipe between photos in a property listing app, dating profiles, display album artwork, or a traditional slider for volume or settings.
+73.  Virtual Reality: A headset, a screen, or the virtual controls required. Small screen real estate requires more hand gestures so be intuitive.
+74.  App Download: Create a download page, modal, form, or  screen related to downloading something. It could be for a volunteer event, contest registration, or anything you can image requiring a download.
+75.  Pre-Order: Design a page or element to encourage pre-orders for something. It could be an upcoming book, movie, website template, etc.
+76.  Loading: What's loading? It could be a website, a movie buffering, or a super fun animation for a video game loading.
+77.  Thank You (Page or Message): Thank users for downloading your app or a free eBook. Your design can be simple or funny with a GIF. :)
+78.  Invitation: Invite a person or team to something. It could be a wedding, a product launch party, or to join a new website.
+79.  Itinerary,: A packing list for Disneyland or summer camp, a course outline to learn coding, or anything. What's the purpose and what do the students or attendees need?
+80.  Date Picker: Create a date picker for anything. You could make it look simple or give it a wild theme.
+81.  Status Update: Design a status update. It could be for a notification bar, a progress indicator for a download that's complete, or something else.
+82.  Form: Forms are a vital component for websites. People sign up to attend courses, to register for courses, complete surveys, and so much more. Making the forms beautiful will help encourage people to complete them. Don't overload them with too much information at once, but let them progress in small stages.
+83.  Button: Buttons are so simple, yet can be so fun to create.Gradients, hover interactions, pulsing elements, sparkles, etc.There's an entire world of unique buttons to explore.
+84.  Badge: Badges can be assigned to users to the number of years they've been on a platform, accomplishments they've made, etc. They can be fun and information.
+85.  Pagination: Dealing with lots of information isn't easy. When there are hundreds of pages or components, things can get messy if there's no clear hierarchy. Design a pagination look and flow to make it simple.
+86.  Progress: What's making progress and how does it work?It could be a progress bar showing time remaining in a movie or it could calculate the progress made reading a book. Anything you want.
+87.  Avatar: Design an avatar. It could be for company logos or photos of an app's users. Take into consideration the corner rounding, size, placement, etc.
+88.  Sign Up Form: Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+89.  Agree to Terms: Almost every app or website has legal terms. Signing up for a new product will generally require that users agree to the Terms of Service. It's not glamorous, but it's important. :)
+90.  Create New: Create a design for a user to create something. Maybe it's a new document, a new design file, or a component such as creating a new column in a spreadsheet.
+91.  Curated for You: Design something that's been personalized such as a newsfeed, timeline, user profile, etc. It could even be book, travel, or product recommendations based on your purchases or browsing history.
+92.  Frequently Asked Questions: Create some designs for an FAQ widget, section, or full page.Everyone has questions about products and brands that make answers easy to find are amazing. Happy customers, happy business.
+93.  Splash Screen: Splash screens tend to occur right after someone opens an app. It's easy to overlook, but making a great first impression with your users is essential to building trust.
+94.  News: News is occurring all around the world at all times. There's an ocean of content constantly being created.Design a nice interface for reading the news.
+95.  Product Tour: What product is being showcased? Is it a physical product like a shoe or piece of art? Or is it a digital product? Whatever it is, it's up to you. Consider the most important features and use cases for the product.
+96.  Currently In Stock: Design a display, sequence or something related to items that are in stock (available). It could be food services, products, or inventory of another type.
+97.  Giveaway: Product giveaways are fun for brands and for customers.Imagine a product you'd like to have and how you'd display it to incentivize customers to join.
+98.  Advertisement: Not everyone likes seeing ads, but they're crucial for some products. Funny ads or inspiring ones tend to be remembered. Think of the products being offered and their intended audience.
+99.  Categories: Design a way to display different things such as people, photos, plants, products, etc. into different categories. 
